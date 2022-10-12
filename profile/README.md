@@ -1,6 +1,6 @@
 <p align="center">
 <img width="100px" src="wave.gif" align="center" alt="Kazim Kayhan" /> <br/>
-<img  src="https://readme-components.vercel.app/api?component=text&text=HOW%20TO%20CODE&fill=15d8fe-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A"> 
+<img  src="https://readme-components.vercel.app/api?component=text&text=HOW2CODE&fill=15d8fe-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A"> 
 </p>
 
 ### Tools we use:
